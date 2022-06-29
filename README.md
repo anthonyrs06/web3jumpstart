@@ -6,4 +6,6 @@ personal learning path for learning web3 development
 ## Dev Tools
 ## DevOps
 ### Deployment
+# Dev Plan
+
 
