@@ -24,6 +24,8 @@ personal learning path for learning web3 development
 - Which network to use? 
 - Which chain to use? 
 - Is a node necesary? 
+- Will flashswaps be too expensive with gas? 
+- What existing contracts can we leverage? 
 
 
 
