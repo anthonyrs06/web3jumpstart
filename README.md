@@ -11,6 +11,9 @@ personal learning path for learning web3 development
 ### Deployment
 # Plan of Attack
 - [ ] Get all pair prices from Paraswap
+  - [ ] Display in real time and log to db
+- [ ] Create pool monitor 
+  - [ ] Display in real time and log to db
 - [ ] Develop arbitrage algorithm to log all 1:1 pair opportunities
   - [ ]  Add triagular arb analysis 
 - [ ] Integrate blocknative transaction lifecycle 
