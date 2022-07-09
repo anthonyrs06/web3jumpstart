@@ -29,7 +29,7 @@ personal learning path for learning web3 development
 - Is a node necesary? 
 - Will flashswaps be too expensive with gas? 
 - What existing contracts can we leverage? 
-
+- Best way to interact with a CEX? Is that needed for arb?
 
 
 
