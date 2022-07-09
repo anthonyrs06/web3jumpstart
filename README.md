@@ -30,6 +30,8 @@ personal learning path for learning web3 development
 - Will flashswaps be too expensive with gas? 
 - What existing contracts can we leverage? 
 - Best way to interact with a CEX? Is that needed for arb?
+- For load attacks, does origin of request matter? Need different IPs or geos? Use different contacts? 
+  -Does the blockchain care? Do the providers aka UniSwap care, monitor, protect?
 
 
 
